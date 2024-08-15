@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm A(E)lhassan Ahmed</h1>
-<h3 align="center">Global Citizen, Storyteller, Avid Gamer, ِAnime Otaku, Nocturnal City Explorer</h3>
+<h3 align="center">Global Citizen, Storyteller, Avid Gamer, Anime Otaku, Nocturnal City Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alhassan777&label=Profile%20views&color=0e75b6&style=flat" alt="alhassan777" /> </p>
 
