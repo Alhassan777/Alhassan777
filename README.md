@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AWS, Figma and React Native**
 
-- 💬 Talk with me about **Product Management/ Attack on Titan/ who will win the next Champions league (def. not Real Madrid 🥸)**
+- 💬 Talk with me about **Product Management/ Attack on Titan/ who will win the next UEFA Champions League (def. not Real Madrid 🥸)**
 
 - 🆕 Latest Project [https://alhassan74747.github.io/func_fact/](https://alhassan74747.github.io/func_fact/)
 
@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gRELTn5E_mHJMuJ60yrorvdpItXlVnsF/view?usp=drive_link](https://drive.google.com/file/d/1gRELTn5E_mHJMuJ60yrorvdpItXlVnsF/view?usp=drive_link)
 
-- ⚡ Fun fact **Look at My Latest Project 😊**
+- ⚡ Fun fact **Kindly Look at My Latest Project 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
